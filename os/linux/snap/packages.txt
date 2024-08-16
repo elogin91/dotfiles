@@ -1,0 +1,9 @@
+bare
+core18
+core22
+core24
+gtk-common-themes
+snapcraft
+snapd
+tldr
+ubuntu-desktop-installer
